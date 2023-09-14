@@ -34,7 +34,7 @@ npm install
 
 ## Step 4:
 
-- ## Enter the following commands in the VSCode terminal to run the project:
+- ## Enter the following command in the VSCode terminal to run the project:
 
 ```
 npm start
